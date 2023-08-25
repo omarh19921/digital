@@ -125,7 +125,7 @@ const Contact = ({ text, info }) => {
               <span className={styles.dev_text}>Developed by </span>
               <a
                 className={`${styles.dev_text} ${styles.dev_link}`}
-                href="http://omarcodesnj.com/"
+                href="http://www.omarcodesnj.com/"
                 target="_blank"
                 aria-label="Developed by"
               >
