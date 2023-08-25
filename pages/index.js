@@ -20,7 +20,7 @@ export default function Home({ data }) {
     <>
       <Head>
         <meta charSet="utf-8" />
-        <title>NT Co. | digital agency</title>
+        <title>Think Big Technology | a digital agency</title>
         <meta name="title" content="NT Co. | digital agency" />
         <meta name="description" content={info.description} />
         <link rel="icon" href="/favicon.ico" />
