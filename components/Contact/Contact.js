@@ -104,7 +104,7 @@ const Contact = ({ text, info }) => {
             <div className={styles.social_box}>
               <a
                 className={styles.social_link}
-                href="https://instagram.com/nt__co/"
+                href="https://instagram.com/egyptianjefe/"
                 target="_blank"
                 aria-label="more in our instagram.com/nt__co/"
               >
@@ -112,7 +112,7 @@ const Contact = ({ text, info }) => {
               </a>
               <a
                 className={styles.social_link}
-                href="https://linkedin.com/company/nt-co/"
+                href="https://www.linkedin.com/in/omar-h-2827a3242/"
                 target="_blank"
                 aria-label="more in our linkedin"
               >
@@ -125,11 +125,11 @@ const Contact = ({ text, info }) => {
               <span className={styles.dev_text}>Developed by </span>
               <a
                 className={`${styles.dev_text} ${styles.dev_link}`}
-                href="https://roykachani.com/"
+                href="http://omarcodesnj.com/"
                 target="_blank"
                 aria-label="Developed by"
               >
-                Roy Kachani
+                Omar Hafez
               </a>
             </div>
           </div>

@@ -7,7 +7,14 @@ export const MainContext = createContext();
 const { Provider } = MainContext;
 
 export const MainProvider = ({ children }) => {
-  const [mainState, setMainState] = useState({});
+  const [mainState, setMainState] = useState({
+    texts: {
+      contact: 'Contact us',
+    },
+    info: {
+      email: 'INFO@THINKBIGTECHNOLOGY.COM', // This is the email you want to change
+    },
+  });
   const [fontLoaded, setFontLoaded] = useState(false);
   const [windowSize, setWindowSize] = useState({
     width: undefined,
