@@ -45,7 +45,7 @@ export default function Home({ data }) {
         <meta property="og:description" content={info.description} />
         <meta
           property="og:image"
-          content="https://www.nice-try.co/profile.png"
+          content="https://thinkbigtechnology.com/wp-content/uploads/2023/02/Think_Big_Logo-removebg-preview.png"
         />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="es_AR" />
