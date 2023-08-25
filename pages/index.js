@@ -39,7 +39,7 @@ export default function Home({ data }) {
         <meta name="robots" content="index, follow" />
         <meta name="googlebot" content="index, follow" />
 
-        <meta property="og:title" content="Think Big Technology. | digital agency" />
+        <meta property="og:title" content="Think Big Technology" />
         <meta property="og:site_name" content="Think Big Technology." />
         <meta property="og:url" content="https://www.thinkbigtechnology.com/" />
         <meta property="og:description" content={info.description} />
