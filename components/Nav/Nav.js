@@ -7,9 +7,7 @@ const Nav = () => {
         <div className={styles.nav_container}>
           <div className={styles.nav_item}>
             <h1 className={styles.logo}>
-            <a href="http://thinkbigtechnology.com" aria-label="Think Big Technology">
-            <h1 className='styles.logo'>Think Big Technology</h1>
-
+            <a href="http://thinkbigtechnology.com">Think Big Technology
 </a>
             </h1>
             <div className={styles.line_container}></div>

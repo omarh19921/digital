@@ -94,6 +94,7 @@
   .logo img {
     max-width: 80%; /* Adjust the maximum width as needed */
   }
+  
 }
 @media screen and (max-width: 540px) {
   .nav {
@@ -118,5 +119,7 @@
   .description_title {
     width: 100%;
   }
-
+  .logo a {
+    font-size: 12px; /* Adjust the font size as needed */
+  }
 }
