@@ -8,7 +8,7 @@ const Nav = () => {
           <div className={styles.nav_item}>
             <h1 className={styles.logo}>
             <a href="http://thinkbigtechnology.com" aria-label="Think Big Technology">
-            <img src="https://thinkbigtechnology.com/wp-content/uploads/2023/02/Think_Big_Logo-removebg-preview.png" alt="Your Logo" />
+            <img src="" alt="Think Big Technology" />
 
 </a>
             </h1>
