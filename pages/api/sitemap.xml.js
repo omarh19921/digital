@@ -16,7 +16,7 @@ export default function handler(req, res) {
       
       
       <url>
-        <loc>https://nice-try.co/</loc>
+        <loc>https://thinkbigtechnology.com/</loc>
         <lastmod>2022-10-27T19:42:59+00:00</lastmod>
         <priority>1.00</priority>
       </url>

@@ -21,7 +21,7 @@ export default function Home({ data }) {
       <Head>
         <meta charSet="utf-8" />
         <title>Think Big Technology | a digital agency</title>
-        <meta name="title" content="NT Co. | digital agency" />
+        <meta name="title" content="Think Big Technology | digital agency" />
         <meta name="description" content={info.description} />
         <link rel="icon" href="/favicon.ico" />
         <link
@@ -32,7 +32,7 @@ export default function Home({ data }) {
         />
         <meta
           name="keywords"
-          content="end-to-end agency, digital agency, nice try, nice try co., new trends and develop, help organizations level up their brands, Digital Marketing, strategy, Brand Strategy, Planning, Research, gaming, Team Management, Events, Tournaments, Events & Tournaments, Live Streams, design, Branding, Product Development, Motion,UX / UI, App Development, Content Production, Live Streams, Audiovisual, Productora audiovisual, creadores de contenido, diseñadores, agencia digital, streams streaming, estrategia digital, digital strategy, estrategia"
+          content="end-to-end agency, digital agency, Think Big Technology., new trends and develop, help organizations level up their brands, Digital Marketing, strategy, Brand Strategy, Planning, Research, gaming, Team Management, Events, Tournaments, Events & Tournaments, Live Streams, design, Branding, Product Development, Motion,UX / UI, App Development, Content Production, Live Streams, Audiovisual, Productora audiovisual, creadores de contenido, diseñadores, agencia digital, streams streaming, estrategia digital, digital strategy, estrategia"
         />
         <link rel="canonical" href="https://www.thinkbigtechnology.com/" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
